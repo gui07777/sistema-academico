@@ -1,0 +1,14 @@
+Passos para a criacao de um APP
+
+1° Desenhar a tela de layout
+2° Identificar os elementos com os quais o usuário vai interagir
+3° Declarar as classes desses elementos no Java/Kotlin
+4° 'Linkar' o layout com a parte lógica (findViewById)
+5° Desenvolver a parte lógica
+
+Todo aplicativo é composto de uma tela e uma lógica. Essa lógica está dentro de uma classe (pode ser Java ou Kotlin).
+
+O conjunto da tela com o layout é chamado de Activity. 
+Para inserir imagens no nosso app, precisamos copiar as imagens para a pasta drawable. 
+E para copiar musicas, temos que criar um diretorio do tipo raw.
+
